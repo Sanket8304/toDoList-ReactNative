@@ -14,7 +14,7 @@ export default function toDoList(props) {
             <TouchableOpacity style={styles.textStyle}>
               <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
                 <Text >{item.item.text}</Text>
-                <MaterialIcons onPress={ () => props.deleteToDo(item.item.key) } name="delete" size={24} color="#gray" />
+                <MaterialIcons onPress={ () => props.deleteToDo(item.item.key) } name="delete" size={24} color="gray" />
               </View>
             </TouchableOpacity>
             )}
