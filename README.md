@@ -29,3 +29,4 @@ iOS devices [iOS App](https://apps.apple.com/app/apple-store/id982107779)
 Android devices [Android App](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www)
 
 Open the app on your device and scan the QR code printed by ```expo start```.
+Enjoy....! 
